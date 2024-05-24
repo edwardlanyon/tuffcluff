@@ -2,7 +2,7 @@
 var timeout	= 500;
 var closetimer	= 0;
 var ddmenuitem	= 0;
-var rt = "http://www.tuffcluff.com/";
+var rt = "https://edwardlanyon.github.io/tuffcluff/";
 //var rt = "file://Bernard/Websites/TuffCluff.com/NEW_WEBSITE/";
 //var rt = "file://W:/TuffCluff.com/NEW_WEBSITE/";
 
