@@ -1,0 +1,165 @@
+BODY
+{
+}
+.TDselect
+{
+    COLOR: black;
+    FONT-FAMILY: Arial;
+    FONT-SIZE: 10pt;
+}
+.TDselectsm
+{
+    COLOR: black;
+    FONT-FAMILY: Arial;
+    FONT-SIZE: 8pt
+}
+.arial12
+{
+    COLOR: black;
+    FONT-FAMILY: Arial;
+    FONT-SIZE: 12pt
+}
+.arial12body
+{
+    COLOR: black;
+    FONT-FAMILY: Arial;
+    FONT-SIZE: 12pt;
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+}
+.arial24
+{
+    FONT-FAMILY: Arial;
+    FONT-SIZE: 24pt;
+}
+.arial30
+{
+    FONT-FAMILY: Arial;
+    FONT-SIZE: 30pt;
+    COLOR: #5970B2;
+}
+.arial72
+{
+    FONT-FAMILY: Arial;
+    FONT-SIZE: 24pt;
+}
+.arial50
+{
+    FONT-FAMILY: Arial;
+    FONT-SIZE: 50pt;
+    COLOR: #ff0000;
+}
+.arial48
+{
+    FONT-FAMILY: Arial;
+    FONT-SIZE: 48pt;
+    COLOR: #5970B2;
+}
+.border
+{
+    BORDER-BOTTOM: 1pt groove;
+    BORDER-LEFT: 1pt groove;
+    BORDER-RIGHT: 1pt groove;
+    BORDER-TOP: 1pt groove;
+}
+.arial9
+{
+    FONT-FAMILY: Arial;
+    FONT-SIZE: 9pt;
+}
+.arial24white
+{
+    COLOR: navy;
+    FONT-FAMILY: Arial;
+    FONT-SIZE: 24pt;
+}
+.arial18
+{
+    FONT-FAMILY: Arial;
+    FONT-SIZE: 18px;
+}
+.courier10
+{
+    FONT-FAMILY: Courier;
+    FONT-SIZE: 10pt;
+}
+.tab
+{
+    BACKGROUND-COLOR: #fff1ca;
+    COLOR: black;
+    FONT-FAMILY: 'Comic Sans MS';
+    FONT-SIZE: 10pt;
+}
+.subtab
+{
+    BACKGROUND-COLOR: white;
+    COLOR: black;
+    FONT-FAMILY: 'Comic Sans MS';
+    FONT-SIZE: 10pt;
+}
+.blackborder
+{
+    BORDER-BOTTOM: black 4pt solid;
+    BORDER-LEFT: black 4pt solid;
+    BORDER-RIGHT: black 4pt solid;
+    BORDER-TOP: black 4pt solid;
+    FONT-FAMILY: Arial;
+    FONT-SIZE: 16pt;
+    TEXT-ALIGN: center;
+}
+.times10
+{
+    FONT-FAMILY: 'Times New Roman';
+    FONT-SIZE: 11pt;
+    TEXT-ALIGN: justify;
+}
+.times30
+{
+    FONT-FAMILY: 'Times New Roman';
+    FONT-SIZE: 30pt;
+    FONT-WEIGHT: 900;
+}
+.times50
+{
+	FONT-FAMILY: "Times New Roman";
+	FONT-SIZE:50pt;
+	FONT-WEIGHT: 900;
+	line-height: 85px;
+	text-align: left;
+	margin: 0px;
+	padding: 0px;
+	border: 0px;
+}
+.times70
+{
+	FONT-FAMILY: "Times New Roman";
+	FONT-SIZE: 80pt;
+	FONT-WEIGHT: 900;
+	line-height: 85px;
+	text-align: left;
+	margin: 0px;
+	padding: 0px;
+	border: 0px;
+}
+.times15
+{
+    FONT-FAMILY: 'Times New Roman';
+    FONT-SIZE: 15pt;
+    FONT-WEIGHT: bold;
+}
+.headline
+{
+    BACKGROUND-COLOR: red;
+    COLOR: white;
+    FONT-FAMILY: Arial;
+    FONT-SIZE: 76pt;
+}
+.tdsel12
+{
+    COLOR: white;
+    FONT-FAMILY: Arial;
+    FONT-SIZE: 12pt;
+}
+
+
