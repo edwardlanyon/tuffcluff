@@ -72,7 +72,7 @@ document.write("        </div>										");
 document.write("    </li>										");
 document.write("    <li><a href='#' onmouseover=mopen('m2') onmouseout=mclosetime()>News</a>	");
 document.write("        <div id='m2' onmouseover=mcancelclosetime() onmouseout=mclosetime()>		");
-document.write("        <a href='"+ rt + "news/newsMenu.html'> NewsT</a> ");
+document.write("        <a href='"+ rt + "news/newsMenu.html'> News</a> ");
 document.write("        <a href='"+ rt + "news/bulletin.html'> Bulletin Board</a> ");
 document.write("        <a href='"+ rt + "news/agony.html'> Agony Aunt</a> ");
 document.write("        </div>										");
