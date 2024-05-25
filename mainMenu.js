@@ -51,7 +51,7 @@ document.onclick = mclose;
 document.write("<center><table width=100% border=0 cellpadding=0 cellspacing=2><tr>");
 document.write("<td rowspan=2 bgColor=#5970B2 valign=bottom  width=50% height=86>");
 document.write("<center>");
-document.write("<img onClick=\"location='"+ rt + "cluffstuff/oldfrontpage.html'\" src='"+ rt + "logo.jpg'></td>");
+document.write("<img onClick=\"location='"+ rt + "index.html'\" src='"+ rt + "logo.jpg'></td>");
 document.write("<td><img src='"+ rt + "banner.jpg'></td>");
 document.write("<td rowspan=2 bgColor=#5970B2 width=50% height=86></td>");
 document.write("</tr><tr><td valign=bottom>");
