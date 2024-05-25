@@ -75,7 +75,6 @@ document.write("        <div id='m2' onmouseover=mcancelclosetime() onmouseout=m
 document.write("        <a href='"+ rt + "news/newsMenu.html'> NewsT</a> ");
 document.write("        <a href='"+ rt + "news/bulletin.html'> Bulletin Board</a> ");
 document.write("        <a href='"+ rt + "news/agony.html'> Agony Aunt</a> ");
-document.write("        <a href='http://www.tuffcluff.com/webmail'> Tuffcluff Email</a> ");
 document.write("        </div>										");
 document.write("    </li>										");
 document.write("    <li><a href='#' onmouseover=mopen('m3') onmouseout=mclosetime()>Features</a>	");
