@@ -86,7 +86,7 @@ document.write("        <a href='"+ rt + "features/hobby/hobby.html'> Hobbies</a
 document.write("        <a href='"+ rt + "features/garden/gardenmenu.html'> Gardening</a> ");
 document.write("        <a href='"+ rt + "features/diy/decor.html'> DIY & Crafts</a> ");
 document.write("        <a href='"+ rt + "features/exercise/exercise.html'> Health & Fitness</a> ");
-document.write("        <a href='"+ rt + "features/parenting/parentMenu.html'> Parenting</a> ");
+document.write("        <a href='"+ rt + "features/parenting/parentmenu.html'> Parenting</a> ");
 document.write("        <a href='"+ rt + "features/kids/kids.html'> For Kids Only</a> ");
 //document.write("        <a href='features/'> Recipies</a> ");
 document.write("        </div>										");
